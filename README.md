@@ -7,7 +7,7 @@
 **raheel1906/raheel1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently doing Enterprise Scale Landing Zone, Enterprise Policy as a Code (EPAC), Infrastructure as a Code (Bicep, Terraform, GitHub)
+- 🔭 I’m currently doing Enterprise Scale Landing Zone, Enterprise Policy as a Code (EPAC), Infrastructure as Code (Bicep, Terraform, GitHub)
 <!-- - 🌱 I’m currently learning ... -->
 - 📫 How to reach me: LinkedIn
 
