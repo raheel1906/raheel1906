@@ -1,14 +1,46 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Rahiel Akhtar!</h1>
-  <h3>☁️ Azure Cloud Engineer</h3>
+  <h1>Hi there 👋, I'm Rahiel Akhtar</h1>
+  <h3>☁️ Azure Cloud Engineer | Platform & Networking | IaC</h3>
+
+  <a href="https://www.linkedin.com/in/rahiel-akhtar-174827194/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin">
+  </a>
 </div>
 
-<!--
-**raheel1906/raheel1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-- 🔭 I’m currently doing Enterprise Scale Landing Zone, Enterprise Policy as a Code (EPAC), Infrastructure as Code (Bicep, Terraform, GitHub)
-<!-- - 🌱 I’m currently learning ... -->
-- 📫 How to reach me: LinkedIn
+## What I do
+I build and operate Azure platform foundations for enterprise environments — with a focus on **secure networking**, **governance**, and **automation**.
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheel1906&layout=compact&theme=dark) -->
+I also work closely with application teams to **enable them to use the platform effectively** through onboarding, guidance, technical training and peer-programming.
+
+- **Landing Zones / Platform Engineering** (CAF / Enterprise-Scale patterns)
+- **Azure Networking & Private Connectivity** (hub-spoke, Private Link, DNS, routing)
+- **Governance** (Azure Policy, EPAC - Enterprise-Policy-as-Code)
+- **Infrastructure as Code** (Terraform, Bicep) + **GitHub Actions** CI/CD
+- **Application Team Enablement** (onboarding, architecture guidance, internal training)
+
+---
+
+## Current focus (2026)
+- 🧱 Standardizing reusable **Terraform modules** and patterns for platform teams  
+- 🌐 Deep dives into **Azure networking** (routing, DNS, Private Link, App Gateway patterns, ExpressRoute connectivity, Reliability & SRE practices)
+- ✍️ Publishing technical notes & guides as a public knowledge base on GitHub  
+- 🎓 Expanding technical internal training and onboarding material for application teams
+
+---
+
+## Featured repos
+*(I’ll keep this updated as I publish more.)*
+
+- 📚 **Cloud Notes / Knowledge Base** — *Azure networking, platform patterns, IaC learnings*  
+  → `LINK_COMING_SOON`
+- 🧩 **Terraform Modules** — *reusable infrastructure building blocks*  
+  → `LINK_COMING_SOON`
+- 🛡️ **Governance & Policy-as-Code** — *EPAC, policy patterns, initiatives*  
+  → `LINK_COMING_SOON`
+
+---
+
+## Reach me @
+- 📫 Prefer: LinkedIn DM
