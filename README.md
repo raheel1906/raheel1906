@@ -17,14 +17,17 @@ I also work closely with application teams to **enable them to use the platform 
 - **Landing Zones / Platform Engineering** (CAF / Enterprise-Scale patterns)
 - **Azure Networking & Private Connectivity** (hub-spoke, Private Link, DNS, routing)
 - **Governance** (Azure Policy, EPAC - Enterprise-Policy-as-Code)
-- **Infrastructure as Code** (Terraform, Bicep) + **GitHub Actions** CI/CD
+- **Infrastructure as Code** (Terraform) + **GitHub Actions** CI/CD
 - **Application Team Enablement** (onboarding, architecture guidance, internal training)
+- **Containers and Kubernetes** (AKS, Kubernetes, Container Plattform)
 
 ---
 
 ## Current focus (2026)
 - 🧱 Standardizing reusable **Terraform modules** and patterns for platform teams  
 - 🌐 Deep dives into **Azure networking** (routing, DNS, Private Link, App Gateway patterns, ExpressRoute connectivity, Reliability & SRE practices)
+- ☸️ Building deeper competence in **AKS and Kubernetes** (platform patterns, networking, security, operations)  
+- 🤖 Exploring **Azure-native AI services** and how to integrate them safely into enterprise platforms  
 - ✍️ Publishing technical notes & guides as a public knowledge base on GitHub  
 - 🎓 Expanding technical internal training and onboarding material for application teams
 
