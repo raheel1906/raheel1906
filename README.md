@@ -30,18 +30,6 @@ I also work closely with application teams to **enable them to use the platform 
 - 🤖 Exploring **Azure-native AI services** and how to integrate them safely into enterprise platforms  
 - ✍️ Publishing technical notes & guides as a public knowledge base on GitHub  
 
-[---
-
-## Featured repos
-*(I’ll keep this updated as I publish more.)*
-
-- 📚 **Cloud Notes / Knowledge Base** — *Azure networking, platform patterns, IaC learnings*  
-  → `LINK_COMING_SOON`
-- 🧩 **Terraform Modules** — *reusable infrastructure building blocks*  
-  → `LINK_COMING_SOON`
-- 🛡️ **Governance & Policy-as-Code** — *EPAC, policy patterns, initiatives*  
-  → `LINK_COMING_SOON`
-](url)
 ---
 
 ## Reach me @
