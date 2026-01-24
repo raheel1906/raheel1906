@@ -32,5 +32,11 @@ I also work closely with application teams to **enable them to use the platform 
 
 ---
 
+## Featured work
+
+- 📘 **Azure Policy and Infrastructure as Code: Create Subnet with Azure Policy Constraints**  
+  *Deployment of subnets with Terraform with Azure Policy constraints.*  
+  → https://github.com/raheel1906/raheel1906.github.io/blob/main/infrastructure-as-code/azure-policy-constraint-subnet-creation.md
+
 ## Reach me @
 - 📫 Prefer: LinkedIn DM
