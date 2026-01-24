@@ -34,12 +34,14 @@ I also work closely with application teams to **enable them to use the platform 
 
 ## Featured work
 
-- **Azure Policy and Infrastructure as Code: Create Subnet with Azure Policy Constraints**  
-  *Deployment of subnets with Terraform with Azure Policy constraints.*  
+- **Azure Policy & Infrastructure as Code — Enforcing Subnet Constraints**  
+  *Using Azure Policy and Terraform to enforce secure subnet creation in enterprise landing zones.*  
   → https://github.com/raheel1906/raheel1906.github.io/blob/main/infrastructure-as-code/azure-policy-constraint-subnet-creation.md
-- **Azure Route Propagation**
-  *Enabling and Disabling Route Table Propagation for App service Vs. App service Environment.*
+
+- **Azure Route Propagation — When and Why It Matters**  
+  *How enabling or disabling route table propagation affects App Service and App Service Environment connectivity.*  
   → https://github.com/raheel1906/raheel1906.github.io/blob/main/cloud-notes/route-propagation.md
+
 
 ## Reach me @
 - 📫 Prefer: LinkedIn DM
