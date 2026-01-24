@@ -34,7 +34,7 @@ I also work closely with application teams to **enable them to use the platform 
 
 ## Featured work
 
-- **Azure Policy & Infrastructure as Code — Enforcing Subnet Constraints**  
+- **Azure Policy & Infrastructure as Code — Policy constraints for subnets**  
   *Using Azure Policy and Terraform to enforce secure subnet creation in enterprise landing zones.*  
   → https://github.com/raheel1906/raheel1906.github.io/blob/main/infrastructure-as-code/azure-policy-constraint-subnet-creation.md
 
