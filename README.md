@@ -29,9 +29,8 @@ I also work closely with application teams to **enable them to use the platform 
 - ☸️ Building deeper competence in **AKS and Kubernetes** (platform patterns, networking, security, operations)  
 - 🤖 Exploring **Azure-native AI services** and how to integrate them safely into enterprise platforms  
 - ✍️ Publishing technical notes & guides as a public knowledge base on GitHub  
-- 🎓 Expanding technical internal training and onboarding material for application teams
 
----
+[---
 
 ## Featured repos
 *(I’ll keep this updated as I publish more.)*
@@ -42,7 +41,7 @@ I also work closely with application teams to **enable them to use the platform 
   → `LINK_COMING_SOON`
 - 🛡️ **Governance & Policy-as-Code** — *EPAC, policy patterns, initiatives*  
   → `LINK_COMING_SOON`
-
+](url)
 ---
 
 ## Reach me @
