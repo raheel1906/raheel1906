@@ -38,9 +38,6 @@ I also work closely with application teams to **enable them to use the platform 
   *Using Azure Policy and Terraform to enforce secure subnet creation.*  
   → https://github.com/raheel1906/raheel1906.github.io/blob/main/infrastructure-as-code/azure-policy-constraint-subnet-creation.md
 
-- **Azure Route Propagation — When and Why It Matters**  
-  *How enabling or disabling route table propagation affects App Service and App Service Environment connectivity.*  
-  → https://github.com/raheel1906/raheel1906.github.io/blob/main/cloud-notes/route-propagation.md
 
 
 ## Reach me @
